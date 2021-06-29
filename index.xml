@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Jun 2021 23:17:14 +0530</lastBuildDate><atom:link href="https://v2kiran.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://v2kiran.github.io/site/about/</link>
+      <pubDate>Wed, 30 Jun 2021 00:15:16 +0530</pubDate>
+      
+      <guid>https://v2kiran.github.io/site/about/</guid>
+      <description>this is a placeholder</description>
+    </item>
+    
+    <item>
       <title>Mypost2</title>
       <link>https://v2kiran.github.io/site/posts/mypost2/</link>
       <pubDate>Tue, 29 Jun 2021 23:17:14 +0530</pubDate>
