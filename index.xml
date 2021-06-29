@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kiran Reddy</title>
+    <link>https://v2kiran.github.io/site/</link>
+    <description>Recent content on Kiran Reddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jun 2021 22:55:31 +0530</lastBuildDate><atom:link href="https://v2kiran.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://v2kiran.github.io/site/posts/mypost/</link>
+      <pubDate>Tue, 29 Jun 2021 22:55:31 +0530</pubDate>
+      
+      <guid>https://v2kiran.github.io/site/posts/mypost/</guid>
+      <description>this is a sample post</description>
+    </item>
+    
+  </channel>
+</rss>
