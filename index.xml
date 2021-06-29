@@ -6,7 +6,16 @@
     <description>Recent content on Kiran Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jun 2021 22:55:31 +0530</lastBuildDate><atom:link href="https://v2kiran.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 23:17:14 +0530</lastBuildDate><atom:link href="https://v2kiran.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost2</title>
+      <link>https://v2kiran.github.io/site/posts/mypost2/</link>
+      <pubDate>Tue, 29 Jun 2021 23:17:14 +0530</pubDate>
+      
+      <guid>https://v2kiran.github.io/site/posts/mypost2/</guid>
+      <description>the second post</description>
+    </item>
+    
     <item>
       <title>Mypost</title>
       <link>https://v2kiran.github.io/site/posts/mypost/</link>
