@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>secondtag on Kiran Reddy</title>
+    <link>https://v2kiran.github.io/site/tags/secondtag/</link>
+    <description>Recent content in secondtag on Kiran Reddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jun 2021 23:17:14 +0530</lastBuildDate><atom:link href="https://v2kiran.github.io/site/tags/secondtag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost2</title>
+      <link>https://v2kiran.github.io/site/posts/mypost2/</link>
+      <pubDate>Tue, 29 Jun 2021 23:17:14 +0530</pubDate>
+      
+      <guid>https://v2kiran.github.io/site/posts/mypost2/</guid>
+      <description>the second post</description>
+    </item>
+    
+  </channel>
+</rss>
